@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+}
+h2 {
+  color: cornsilk;
+}
+h1 {
+  color: cornsilk;
+  text-align: center;
+}
+#first-par {
+  color: cornsilk;
+  font-size: large;
+}
+#second-par {
+  color: crimson;
+}
+#abmindpar {
+  color: crimson;
+}
+#button1 {
+  background-color: crimson;
+  border: cornsilk;
+}
+
+.modal {
+  position: fixed;
+  left: 2;
+  top: 6;
+  width: 70%;
+  overflow: auto;
+  background-color: cornsilk;
+}
+
+.hidden {
+  display: none;
+}
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
